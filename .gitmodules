@@ -1,0 +1,3 @@
+[submodule "Musical-World"]
+	path = Musical-World
+	url = https://github.com/Dharshini92/dockerphp.git
